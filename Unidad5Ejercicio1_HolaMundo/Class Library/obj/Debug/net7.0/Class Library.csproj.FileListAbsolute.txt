@@ -1,0 +1,11 @@
+C:\Users\aleleotta\Documents\GitHub\Interfaces\Unidad5Ejercicio1_HolaMundo\Class Library\bin\Debug\net7.0\Class Library.deps.json
+C:\Users\aleleotta\Documents\GitHub\Interfaces\Unidad5Ejercicio1_HolaMundo\Class Library\bin\Debug\net7.0\Class Library.dll
+C:\Users\aleleotta\Documents\GitHub\Interfaces\Unidad5Ejercicio1_HolaMundo\Class Library\bin\Debug\net7.0\Class Library.pdb
+C:\Users\aleleotta\Documents\GitHub\Interfaces\Unidad5Ejercicio1_HolaMundo\Class Library\obj\Debug\net7.0\Class Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleleotta\Documents\GitHub\Interfaces\Unidad5Ejercicio1_HolaMundo\Class Library\obj\Debug\net7.0\Class Library.AssemblyInfoInputs.cache
+C:\Users\aleleotta\Documents\GitHub\Interfaces\Unidad5Ejercicio1_HolaMundo\Class Library\obj\Debug\net7.0\Class Library.AssemblyInfo.cs
+C:\Users\aleleotta\Documents\GitHub\Interfaces\Unidad5Ejercicio1_HolaMundo\Class Library\obj\Debug\net7.0\Class Library.csproj.CoreCompileInputs.cache
+C:\Users\aleleotta\Documents\GitHub\Interfaces\Unidad5Ejercicio1_HolaMundo\Class Library\obj\Debug\net7.0\Class Library.dll
+C:\Users\aleleotta\Documents\GitHub\Interfaces\Unidad5Ejercicio1_HolaMundo\Class Library\obj\Debug\net7.0\refint\Class Library.dll
+C:\Users\aleleotta\Documents\GitHub\Interfaces\Unidad5Ejercicio1_HolaMundo\Class Library\obj\Debug\net7.0\Class Library.pdb
+C:\Users\aleleotta\Documents\GitHub\Interfaces\Unidad5Ejercicio1_HolaMundo\Class Library\obj\Debug\net7.0\ref\Class Library.dll
