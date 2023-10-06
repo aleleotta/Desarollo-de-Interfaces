@@ -15,9 +15,9 @@
             {
                 string lastNames = "";
                 lastNames = await DisplayPromptAsync("Hello buddy!", "Introduce your last names:");
-                while (lastNames.Equals(""))
+                while(string.IsNullOrWhiteSpace(lastNames) && string.IsNullOrEmpty(lastNames))
                 {
-                    if (lastNames.Equals(""))
+                    if(string.IsNullOrWhiteSpace(lastNames) && string.IsNullOrEmpty(lastNames))
                     {
                         lastNames = await DisplayPromptAsync("Error!", "You must introduce your last names.");
                     }

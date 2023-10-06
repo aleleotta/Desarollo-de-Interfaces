@@ -10,14 +10,14 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>49b6ca51-224f-4933-97cf-e9df3ac8c35c</PackageIdentityName>
     <PackageIdentityPublisher>CN=User Name</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\aleleotta\Documents\GitHub\Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\aleleotta\Documents\GitHub\Desarollo de Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
     <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
     <PackageRegistrationPath>
     </PackageRegistrationPath>
     <RemoveNonLayoutFiles>false</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\aleleotta\Documents\GitHub\Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
+    <LayoutDir>C:\Users\aleleotta\Documents\GitHub\Desarollo de Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
     <RegisteredManifestChecksum>A8C0EF4EAC34439463FC38F874EE3A5CEAA65FCDBE5634354F9BC14C9AE6FB92</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>49b6ca51-224f-4933-97cf-e9df3ac8c35c_1.0.0.1_x64__9zz4h110yvjzm</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>49b6ca51-224f-4933-97cf-e9df3ac8c35c_9zz4h110yvjzm!App</RegisteredUserModeAppID>
@@ -26,32 +26,32 @@
     <RegisteredVersion>1.0.0.1</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\aleleotta\Documents\GitHub\Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\aleleotta\Documents\GitHub\Desarollo de Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-10-05T12:16:23.421</Modified>
+      <Modified>2023-10-06T07:06:01.529</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
+    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Desarollo de Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-10-05T12:16:23.132</Modified>
+      <Modified>2023-10-06T07:06:01.285</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Unidad5_ejercicio1_HolaMundo.runtimeconfig.json">
+    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Desarollo de Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Unidad5_ejercicio1_HolaMundo.runtimeconfig.json">
       <PackagePath>Unidad5_ejercicio1_HolaMundo.runtimeconfig.json</PackagePath>
-      <Modified>2023-10-05T11:02:49.091</Modified>
+      <Modified>2023-10-06T06:55:29.652</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Unidad5_ejercicio1_HolaMundo.dll">
+    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Desarollo de Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Unidad5_ejercicio1_HolaMundo.dll">
       <PackagePath>Unidad5_ejercicio1_HolaMundo.dll</PackagePath>
-      <Modified>2023-10-05T12:16:22.162</Modified>
+      <Modified>2023-10-06T07:06:00.337</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
+    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Desarollo de Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>Unidad5_ejercicio1_HolaMundo.exe</PackagePath>
-      <Modified>2023-10-05T12:16:22.184</Modified>
+      <Modified>2023-10-06T07:06:00.344</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Unidad5_ejercicio1_HolaMundo.deps.json">
+    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Desarollo de Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Unidad5_ejercicio1_HolaMundo.deps.json">
       <PackagePath>Unidad5_ejercicio1_HolaMundo.deps.json</PackagePath>
-      <Modified>2023-10-05T11:02:49.090</Modified>
+      <Modified>2023-10-06T06:55:29.506</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\aleleotta\.nuget\packages\microsoft.netcore.app.runtime.win-x64\7.0.11\runtimes\win-x64\lib\net7.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -921,10 +921,6 @@
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
       <Modified>2022-11-08T19:31:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Interfaces\Unidad5Ejercicio1_HolaMundo\Class_Library\bin\Debug\net7.0\Class_Library.dll">
-      <PackagePath>Class_Library.dll</PackagePath>
-      <Modified>2023-10-05T11:02:41.916</Modified>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Ref.win\7.0.92\ref\net7.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
       <Modified>2023-06-30T14:51:22.000</Modified>
@@ -937,239 +933,239 @@
       <PackagePath>Microsoft.Maui.pri</PackagePath>
       <Modified>2023-06-30T14:50:38.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\Resources\Raw\AboutAssets.txt">
+    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Desarollo de Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
       <Modified>2023-10-05T10:58:28.445</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Desarollo de Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
       <Modified>2023-10-05T10:58:33.111</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Desarollo de Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
       <Modified>2023-10-05T10:58:33.126</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Desarollo de Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
       <Modified>2023-10-05T10:58:33.146</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Desarollo de Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
       <Modified>2023-10-05T10:58:33.176</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Desarollo de Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
       <Modified>2023-10-05T10:58:33.293</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
+    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Desarollo de Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
       <Modified>2023-10-05T10:58:28.441</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
+    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Desarollo de Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
       <Modified>2023-10-05T10:58:28.442</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
+    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Desarollo de Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
       <Modified>2023-10-05T10:58:33.329</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Desarollo de Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
       <Modified>2023-10-05T10:58:33.576</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Desarollo de Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
       <Modified>2023-10-05T10:58:33.589</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Desarollo de Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
       <Modified>2023-10-05T10:58:33.599</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Desarollo de Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
       <Modified>2023-10-05T10:58:33.616</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Desarollo de Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
       <Modified>2023-10-05T10:58:33.680</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Desarollo de Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
       <Modified>2023-10-05T10:58:33.399</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Desarollo de Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
       <Modified>2023-10-05T10:58:33.402</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Desarollo de Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
       <Modified>2023-10-05T10:58:33.418</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Desarollo de Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
       <Modified>2023-10-05T10:58:33.407</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Desarollo de Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
       <Modified>2023-10-05T10:58:33.410</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Desarollo de Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
       <Modified>2023-10-05T10:58:33.380</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Desarollo de Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
       <Modified>2023-10-05T10:58:33.383</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Desarollo de Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
       <Modified>2023-10-05T10:58:33.396</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Desarollo de Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
       <Modified>2023-10-05T10:58:33.386</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Desarollo de Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
       <Modified>2023-10-05T10:58:33.389</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Desarollo de Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
       <Modified>2023-10-05T10:58:33.343</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Desarollo de Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
       <Modified>2023-10-05T10:58:33.347</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Desarollo de Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
       <Modified>2023-10-05T10:58:33.350</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Desarollo de Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
       <Modified>2023-10-05T10:58:33.353</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Desarollo de Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
       <Modified>2023-10-05T10:58:33.358</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Desarollo de Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
       <Modified>2023-10-05T10:58:33.362</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Desarollo de Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
       <Modified>2023-10-05T10:58:33.364</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Desarollo de Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
       <Modified>2023-10-05T10:58:33.378</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Desarollo de Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
       <Modified>2023-10-05T10:58:33.368</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Desarollo de Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
       <Modified>2023-10-05T10:58:33.371</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Desarollo de Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
       <Modified>2023-10-05T10:58:33.464</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Desarollo de Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
       <Modified>2023-10-05T10:58:33.470</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Desarollo de Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
       <Modified>2023-10-05T10:58:33.475</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Desarollo de Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
       <Modified>2023-10-05T10:58:33.484</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Desarollo de Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
       <Modified>2023-10-05T10:58:33.500</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Desarollo de Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
       <Modified>2023-10-05T10:58:33.440</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Desarollo de Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
       <Modified>2023-10-05T10:58:33.443</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Desarollo de Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
       <Modified>2023-10-05T10:58:33.446</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Desarollo de Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
       <Modified>2023-10-05T10:58:33.450</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Desarollo de Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
       <Modified>2023-10-05T10:58:33.460</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Desarollo de Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
       <Modified>2023-10-05T10:58:33.421</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Desarollo de Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
       <Modified>2023-10-05T10:58:33.425</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Desarollo de Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
       <Modified>2023-10-05T10:58:33.427</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Desarollo de Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
       <Modified>2023-10-05T10:58:33.431</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Desarollo de Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
       <Modified>2023-10-05T10:58:33.436</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Desarollo de Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
       <Modified>2023-10-05T10:58:33.506</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Desarollo de Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
       <Modified>2023-10-05T10:58:33.513</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Desarollo de Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
       <Modified>2023-10-05T10:58:33.521</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Desarollo de Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
       <Modified>2023-10-05T10:58:33.532</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Desarollo de Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
       <Modified>2023-10-05T10:58:33.566</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Desarollo de Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
       <Modified>2023-10-05T10:58:33.334</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Desarollo de Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
       <Modified>2023-10-05T10:58:33.343</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Desarollo de Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
       <Modified>2023-10-05T10:58:33.356</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Desarollo de Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
       <Modified>2023-10-05T10:58:33.376</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Desarollo de Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
       <Modified>2023-10-05T10:58:33.424</Modified>
     </AppxPackagedFile>

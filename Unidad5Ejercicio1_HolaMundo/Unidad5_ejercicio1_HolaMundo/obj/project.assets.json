@@ -24028,11 +24028,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aleleotta\\Documents\\GitHub\\Interfaces\\Unidad5Ejercicio1_HolaMundo\\Unidad5_ejercicio1_HolaMundo\\Unidad5_ejercicio1_HolaMundo.csproj",
+      "projectUniqueName": "C:\\Users\\aleleotta\\Documents\\GitHub\\Desarollo de Interfaces\\Unidad5Ejercicio1_HolaMundo\\Unidad5_ejercicio1_HolaMundo\\Unidad5_ejercicio1_HolaMundo.csproj",
       "projectName": "Unidad5_ejercicio1_HolaMundo",
-      "projectPath": "C:\\Users\\aleleotta\\Documents\\GitHub\\Interfaces\\Unidad5Ejercicio1_HolaMundo\\Unidad5_ejercicio1_HolaMundo\\Unidad5_ejercicio1_HolaMundo.csproj",
+      "projectPath": "C:\\Users\\aleleotta\\Documents\\GitHub\\Desarollo de Interfaces\\Unidad5Ejercicio1_HolaMundo\\Unidad5_ejercicio1_HolaMundo\\Unidad5_ejercicio1_HolaMundo.csproj",
       "packagesPath": "C:\\Users\\aleleotta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aleleotta\\Documents\\GitHub\\Interfaces\\Unidad5Ejercicio1_HolaMundo\\Unidad5_ejercicio1_HolaMundo\\obj\\",
+      "outputPath": "C:\\Users\\aleleotta\\Documents\\GitHub\\Desarollo de Interfaces\\Unidad5Ejercicio1_HolaMundo\\Unidad5_ejercicio1_HolaMundo\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [

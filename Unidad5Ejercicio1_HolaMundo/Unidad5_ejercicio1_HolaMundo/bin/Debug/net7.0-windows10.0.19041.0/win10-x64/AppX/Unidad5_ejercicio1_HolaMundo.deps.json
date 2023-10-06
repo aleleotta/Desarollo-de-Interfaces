@@ -9,7 +9,6 @@
     ".NETCoreApp,Version=v7.0/win10-x64": {
       "Unidad5_ejercicio1_HolaMundo/1.0": {
         "dependencies": {
-          "Class_Library": "1.0.0",
           "Microsoft.Extensions.Configuration": "7.0.0",
           "Microsoft.Extensions.DependencyInjection": "7.0.0",
           "Microsoft.Extensions.Logging": "7.0.0",
@@ -995,11 +994,6 @@
             "fileVersion": "0.0.0.0"
           }
         }
-      },
-      "Class_Library/1.0.0": {
-        "runtime": {
-          "Class_Library.dll": {}
-        }
       }
     }
   },
@@ -1131,11 +1125,6 @@
       "sha512": "sha512-1Y8KDCmUqytdduubaQhRz6aqaP7YhVSPE/fHeqLMsK3DrV+eBThrqkM6R/8N2lu0mwkNfKSTSAhixrTR72nyWA==",
       "path": "microsoft.windowsappsdk/1.2.221209.1",
       "hashPath": "microsoft.windowsappsdk.1.2.221209.1.nupkg.sha512"
-    },
-    "Class_Library/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
     }
   },
   "runtimes": {

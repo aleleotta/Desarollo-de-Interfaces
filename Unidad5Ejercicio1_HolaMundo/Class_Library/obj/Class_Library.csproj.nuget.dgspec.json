@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aleleotta\\Documents\\GitHub\\Interfaces\\Unidad5Ejercicio1_HolaMundo\\Class_Library\\Class_Library.csproj": {}
+    "C:\\Users\\aleleotta\\Documents\\GitHub\\Desarollo de Interfaces\\Unidad5Ejercicio1_HolaMundo\\Class_Library\\Class_Library.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aleleotta\\Documents\\GitHub\\Interfaces\\Unidad5Ejercicio1_HolaMundo\\Class_Library\\Class_Library.csproj": {
+    "C:\\Users\\aleleotta\\Documents\\GitHub\\Desarollo de Interfaces\\Unidad5Ejercicio1_HolaMundo\\Class_Library\\Class_Library.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aleleotta\\Documents\\GitHub\\Interfaces\\Unidad5Ejercicio1_HolaMundo\\Class_Library\\Class_Library.csproj",
+        "projectUniqueName": "C:\\Users\\aleleotta\\Documents\\GitHub\\Desarollo de Interfaces\\Unidad5Ejercicio1_HolaMundo\\Class_Library\\Class_Library.csproj",
         "projectName": "Class_Library",
-        "projectPath": "C:\\Users\\aleleotta\\Documents\\GitHub\\Interfaces\\Unidad5Ejercicio1_HolaMundo\\Class_Library\\Class_Library.csproj",
+        "projectPath": "C:\\Users\\aleleotta\\Documents\\GitHub\\Desarollo de Interfaces\\Unidad5Ejercicio1_HolaMundo\\Class_Library\\Class_Library.csproj",
         "packagesPath": "C:\\Users\\aleleotta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aleleotta\\Documents\\GitHub\\Interfaces\\Unidad5Ejercicio1_HolaMundo\\Class_Library\\obj\\",
+        "outputPath": "C:\\Users\\aleleotta\\Documents\\GitHub\\Desarollo de Interfaces\\Unidad5Ejercicio1_HolaMundo\\Class_Library\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
