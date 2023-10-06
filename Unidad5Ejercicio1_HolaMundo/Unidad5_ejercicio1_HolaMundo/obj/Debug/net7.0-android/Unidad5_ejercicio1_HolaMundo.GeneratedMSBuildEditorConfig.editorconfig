@@ -32,6 +32,12 @@ build_metadata.AdditionalFiles.ManifestResourceName = Unidad5_ejercicio1_HolaMun
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
+[C:/Users/aleleotta/Documents/GitHub/Desarollo de Interfaces/Unidad5Ejercicio1_HolaMundo/Unidad5_ejercicio1_HolaMundo/ProgressPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Unidad5_ejercicio1_HolaMundo.ProgressPage.xaml
+build_metadata.AdditionalFiles.TargetPath = ProgressPage.xaml
+build_metadata.AdditionalFiles.RelativePath = ProgressPage.xaml
+
 [C:/Users/aleleotta/Documents/GitHub/Desarollo de Interfaces/Unidad5Ejercicio1_HolaMundo/Unidad5_ejercicio1_HolaMundo/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Unidad5_ejercicio1_HolaMundo.Resources.Styles.Colors.xaml

@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Unidad5_ejercicio1_HolaMundo.ProgressPage">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Spacing="25"
+            Padding="30,0"
+            VerticalOptions="Center">
+
+            <Image
+                x:Name="bot"
+                Source="dotnet_bot.png"
+                SemanticProperties.Description="Cute dot net bot waving hi to you!"
+                HeightRequest="200"
+                HorizontalOptions="Center"
+                />
+
+            <StackLayout>
+                <Label
+                    x:Name="helloWorld"
+                    Text="Hello World"
+                    HorizontalOptions="Center"
+                    FontSize="Large"
+                    />
+
+                <Label
+                    x:Name="sliderLabel"
+                    Text="Slider"
+                    FontSize="Medium"
+                    />
+
+                <Slider
+                    x:Name="sliderElement"
+                    Value="0"
+                    Maximum="1"
+                    Minimum="0"
+                    />
+
+                <Label
+                    x:Name="progBarLabel"
+                    Text="Progress Bar"
+                    FontSize="Medium"
+                    />
+
+                <ProgressBar
+                    x:Name="progBarElement"
+                    ProgressColor="Blue"
+                    BindingContext="x:Reference sliderElement"
+                    Progress="{Binding Value}"
+                    />
+                
+            </StackLayout>
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

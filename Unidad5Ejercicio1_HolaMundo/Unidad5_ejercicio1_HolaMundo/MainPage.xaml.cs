@@ -2,8 +2,6 @@
 {
     public partial class MainPage : ContentPage
     {
-        int count = 0;
-
         public MainPage()
         {
             InitializeComponent();
@@ -15,9 +13,9 @@
             {
                 string lastNames = "";
                 lastNames = await DisplayPromptAsync("Hello buddy!", "Introduce your last names:");
-                while(string.IsNullOrWhiteSpace(lastNames) && string.IsNullOrEmpty(lastNames))
+                while(string.IsNullOrWhiteSpace(lastNames) || string.IsNullOrEmpty(lastNames))
                 {
-                    if(string.IsNullOrWhiteSpace(lastNames) && string.IsNullOrEmpty(lastNames))
+                    if(string.IsNullOrWhiteSpace(lastNames) || string.IsNullOrEmpty(lastNames))
                     {
                         lastNames = await DisplayPromptAsync("Error!", "You must introduce your last names.");
                     }

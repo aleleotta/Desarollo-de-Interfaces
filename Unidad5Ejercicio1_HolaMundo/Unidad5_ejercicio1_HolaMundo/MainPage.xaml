@@ -16,8 +16,14 @@
                 HorizontalOptions="Center" />
 
             <StackLayout>
-                <Label Text="Name: " />
-                <Entry x:Name="txtNombre" MaximumWidthRequest="200" />
+                <Label
+                    x:Name="entryLabel"
+                    Text="Name: "
+                    />
+                <Entry
+                    x:Name="txtNombre"
+                    MaximumWidthRequest="200"
+                    />
             </StackLayout>
 
             <Button
