@@ -53,12 +53,18 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <Compile Update="bindingEntry.xaml.cs">
+	    <DependentUpon>BindingEntry.xaml</DependentUpon>
+	  </Compile>
 	  <Compile Update="ProgressPage.xaml.cs">
 	    <DependentUpon>ProgressPage.xaml</DependentUpon>
 	  </Compile>
 	</ItemGroup>
 
 	<ItemGroup>
+	  <MauiXaml Update="BindingEntry.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
 	  <MauiXaml Update="ProgressPage.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>

@@ -8,7 +8,7 @@
 
     <ShellContent
         Title="Home"
-        ContentTemplate="{DataTemplate local:ProgressPage}"
-        Route="MainPage" />
+        ContentTemplate="{DataTemplate local:BindingEntry}"
+        Route="BindingEntry" />
 
 </Shell>

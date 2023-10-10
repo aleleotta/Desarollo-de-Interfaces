@@ -16,6 +16,9 @@
     <MauiXaml Update="AppShell.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
+    <MauiXaml Update="BindingEntry.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
     <MauiXaml Update="ProgressPage.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
