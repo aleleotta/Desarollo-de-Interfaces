@@ -29,13 +29,13 @@
     <AppXManifest Include="C:\Users\aleleotta\Documents\GitHub\Desarollo de Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-10-06T09:54:46.423</Modified>
+      <Modified>2023-10-10T10:54:02.226</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Desarollo de Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-10-06T09:54:46.155</Modified>
+      <Modified>2023-10-10T10:54:02.024</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Desarollo de Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Unidad5_ejercicio1_HolaMundo.runtimeconfig.json">
       <PackagePath>Unidad5_ejercicio1_HolaMundo.runtimeconfig.json</PackagePath>
@@ -43,11 +43,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Desarollo de Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Unidad5_ejercicio1_HolaMundo.dll">
       <PackagePath>Unidad5_ejercicio1_HolaMundo.dll</PackagePath>
-      <Modified>2023-10-06T09:54:45.183</Modified>
+      <Modified>2023-10-10T10:54:01.248</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Desarollo de Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>Unidad5_ejercicio1_HolaMundo.exe</PackagePath>
-      <Modified>2023-10-06T09:54:45.203</Modified>
+      <Modified>2023-10-10T10:54:01.257</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\aleleotta\Documents\GitHub\Desarollo de Interfaces\Unidad5Ejercicio1_HolaMundo\Unidad5_ejercicio1_HolaMundo\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Unidad5_ejercicio1_HolaMundo.deps.json">
       <PackagePath>Unidad5_ejercicio1_HolaMundo.deps.json</PackagePath>

@@ -47,8 +47,8 @@
                 <ProgressBar
                     x:Name="progBarElement"
                     ProgressColor="#6767FF"
-                    BindingContext="x:Reference sliderElement"
-                    Progress="{Binding Mode=OneWay}"
+                    BindingContext="{x:Reference sliderElement}"
+                    Progress="{Binding Value}"
                     />
                 
             </StackLayout>
