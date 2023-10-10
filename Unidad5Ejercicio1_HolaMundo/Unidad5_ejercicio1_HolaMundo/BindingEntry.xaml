@@ -4,6 +4,7 @@
              x:Class="Unidad5_ejercicio1_HolaMundo.BindingEntry"
              Title="BindingEntry">
     <VerticalStackLayout>
+        
         <Label 
             Text="Welcome to .NET MAUI!"
             VerticalOptions="Center" 
@@ -19,9 +20,11 @@
         <Label
             x:Name="label2"
             Text="Entry 2" />
+        
         <Entry
             x:Name="entry2"
             BindingContext="{x:Reference entry1}"
             Text="{Binding Text, Mode=TwoWay}"/>
+        
     </VerticalStackLayout>
 </ContentPage>
