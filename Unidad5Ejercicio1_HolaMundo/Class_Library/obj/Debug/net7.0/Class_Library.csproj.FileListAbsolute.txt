@@ -1,0 +1,4 @@
+C:\Users\aleleotta\Documents\GitHub\Desarollo de Interfaces\Unidad5Ejercicio1_HolaMundo\Class_Library\obj\Debug\net7.0\Class_Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleleotta\Documents\GitHub\Desarollo de Interfaces\Unidad5Ejercicio1_HolaMundo\Class_Library\obj\Debug\net7.0\Class_Library.AssemblyInfoInputs.cache
+C:\Users\aleleotta\Documents\GitHub\Desarollo de Interfaces\Unidad5Ejercicio1_HolaMundo\Class_Library\obj\Debug\net7.0\Class_Library.AssemblyInfo.cs
+C:\Users\aleleotta\Documents\GitHub\Desarollo de Interfaces\Unidad5Ejercicio1_HolaMundo\Class_Library\obj\Debug\net7.0\Class_Library.csproj.CoreCompileInputs.cache
